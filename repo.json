@@ -1,8 +1,8 @@
 {
-    "name": "Indostream Repo",
-    "description": "Cloudstream Indonesia Repo",
+    "name": "HJAY Repo",
+    "description": "RepoStream Redit Version HJAY v.1 ",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/plugins.json"
+      "https://raw.githubusercontent.com/AsalBuat/repo/builds/plugins.json"
     ]
 }
