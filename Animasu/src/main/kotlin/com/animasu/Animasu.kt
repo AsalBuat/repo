@@ -45,6 +45,7 @@ class Animasu : MainAPI() {
 
     override val mainPage =
             mainPageOf(
+                    "jadwal=update" to "Jadwal Update"
                     "urutan=update" to "Baru diupdate",
                     "status=&tipe=&urutan=publikasi" to "Baru ditambahkan",
                     "status=&tipe=&urutan=populer" to "Terpopuler",
